@@ -15,11 +15,11 @@ I recommend using Intellij
 # Dashboard
 ![dashboard](https://user-images.githubusercontent.com/101122860/174145714-6967669a-f046-409a-84f9-b2b2bc616eb9.png)
 
-# Products page
-![products_page](https://user-images.githubusercontent.com/101122860/174145479-8e7aa17c-8a06-433b-a005-7d19080a66ad.png)
-
 # Customers page
 ![customers_page](https://user-images.githubusercontent.com/101122860/174145520-1599e4ad-4b4b-4b49-a992-03e2b71a41b0.png)
+
+# Products page
+![products_page](https://user-images.githubusercontent.com/101122860/174145479-8e7aa17c-8a06-433b-a005-7d19080a66ad.png)
 
 # Sales page
 ![sales_page](https://user-images.githubusercontent.com/101122860/174145604-de7b3c40-3db8-4095-9331-b4c3993d58eb.png)
