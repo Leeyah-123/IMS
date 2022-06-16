@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="510.0" prefWidth="827.0" stylesheets="@../../../css/login.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.inventory.ims.LoginController">
+   <children>
+      <ImageView fitHeight="510.0" fitWidth="437.0" pickOnBounds="true">
+         <image>
+            <Image url="@../../../images/icon.jpg" />
+         </image>
+      </ImageView>
+      <Pane layoutX="437.0" prefHeight="510.0" prefWidth="401.0">
+         <children>
+            <TextField fx:id="txtUsername" layoutX="28.0" layoutY="148.0" prefHeight="56.0" prefWidth="342.0" promptText="Username"/>
+            <Label alignment="CENTER" layoutX="21.0" layoutY="62.0" prefHeight="69.0" prefWidth="357.0" text="Welcome to Sonny's Inventory!">
+               <font>
+                  <Font name="System Bold" size="23.0" />
+               </font>
+            </Label>
+            <PasswordField fx:id="txtPassword" layoutX="28.0" layoutY="227.0" prefHeight="56.0" prefWidth="342.0" promptText="Password" />
+            <Button fx:id="loginBtn" layoutX="30.0" layoutY="366.0" onAction="#login" prefHeight="41.0" prefWidth="342.0" text="Login" />
+            <Button fx:id="signupBtn" layoutY="427.0" mnemonicParsing="false" onAction="#loadSignup" prefHeight="23.0" prefWidth="401.0" text="Don't have an account? Click here">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            <CheckBox fx:id="checkBox" layoutX="30.0" layoutY="314.0" mnemonicParsing="false" text="Remember Me">
+               <font>
+                  <Font size="15.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </CheckBox>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33fcfc94-ff0a-475f-98c5-cbab07105821" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/controlsfx-8.40.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesomefx-8.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/CustomersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/DashboardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/EmployeesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/ProductsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/PromptDialogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/SalesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/SignupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/others/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/others/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/others/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/others/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/others/Sales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/others/Toast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/customers.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/dashboard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/dialog.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/employees.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/products.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/profile.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/sales.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/signup.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/customers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/employees.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/products.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/sales.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/signup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/alert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/logout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/stock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/view-dashboard.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29Sk68Q4Xnbw9uf6ec5I0CETFH9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-11&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/leeyah/IdeaProjects/IMS/src/main/java/com/inventory/ims&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/leeyah/IdeaProjects/IMS/src/main/resources/com/inventory/ims&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.inventory.ims" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/inventory/ims" />
+      <recent name="$PROJECT_DIR$/src/main/java/others" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/css" />
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.inventory.ims" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.inventory.ims" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inventory.ims.HelloApplication" />
+      <module name="IMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inventory.ims.EmployeesController" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inventory.ims.Main" />
+      <module name="IMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inventory.ims.EmployeesController" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33fcfc94-ff0a-475f-98c5-cbab07105821" name="Changes" comment="" />
+      <created>1653113704437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653113704437</updated>
+      <workItem from="1653113717030" duration="4705000" />
+      <workItem from="1653171181357" duration="1075000" />
+      <workItem from="1653328140981" duration="712000" />
+      <workItem from="1653416269925" duration="3135000" />
+      <workItem from="1653637586403" duration="3945000" />
+      <workItem from="1653681557589" duration="3876000" />
+      <workItem from="1653687736395" duration="4810000" />
+      <workItem from="1653723372577" duration="7903000" />
+      <workItem from="1653814810102" duration="1179000" />
+      <workItem from="1653863963861" duration="8523000" />
+      <workItem from="1653912247904" duration="5260000" />
+      <workItem from="1653933140821" duration="3881000" />
+      <workItem from="1653949670907" duration="793000" />
+      <workItem from="1653995459503" duration="24270000" />
+      <workItem from="1654069982321" duration="2083000" />
+      <workItem from="1654085560065" duration="24484000" />
+      <workItem from="1654148896215" duration="17719000" />
+      <workItem from="1654185889481" duration="12018000" />
+      <workItem from="1654209448183" duration="15820000" />
+      <workItem from="1654239070613" duration="10767000" />
+      <workItem from="1654514811599" duration="9388000" />
+      <workItem from="1654601849142" duration="2100000" />
+      <workItem from="1654687027309" duration="31026000" />
+      <workItem from="1654771933440" duration="928000" />
+      <workItem from="1654773426354" duration="626000" />
+      <workItem from="1654785039486" duration="4620000" />
+      <workItem from="1654796463141" duration="10740000" />
+      <workItem from="1654810041278" duration="243000" />
+      <workItem from="1654839409227" duration="7752000" />
+      <workItem from="1655238207993" duration="1220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
