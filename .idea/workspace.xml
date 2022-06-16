@@ -5,68 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33fcfc94-ff0a-475f-98c5-cbab07105821" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/controlsfx-8.40.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fontawesomefx-8.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/CustomersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/DashboardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/EmployeesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/ProductsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/ProfileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/PromptDialogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/SalesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/inventory/ims/SignupController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/others/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/others/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/others/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/others/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/others/Sales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/others/Toast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/customers.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/dashboard.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/dialog.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/employees.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/login.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/products.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/profile.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/sales.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inventory/ims/signup.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/customers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/dialog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/employees.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/products.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/profile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/sales.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/signup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icon1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/alert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/logout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/product.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/stock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/view-dashboard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,32 +34,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-11&quot;,
-    &quot;last_directory_selection&quot;: &quot;/home/leeyah/IdeaProjects/IMS/src/main/java/com/inventory/ims&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/leeyah/IdeaProjects/IMS/src/main/resources/com/inventory/ims&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "jdk.selected.JAVA_MODULE": "jbr-11",
+    "last_directory_selection": "/home/leeyah/IdeaProjects/IMS/src/main/java/com/inventory/ims",
+    "last_opened_file_path": "/home/leeyah/IdeaProjects/IMS/src/main/resources/com/inventory/ims",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.JavaFX"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.inventory.ims" />
@@ -215,6 +155,7 @@
       <workItem from="1654810041278" duration="243000" />
       <workItem from="1654839409227" duration="7752000" />
       <workItem from="1655238207993" duration="1220000" />
+      <workItem from="1655391947135" duration="3104000" />
     </task>
     <servers />
   </component>
