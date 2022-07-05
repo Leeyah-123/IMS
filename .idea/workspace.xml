@@ -50,7 +50,7 @@
     "last_opened_file_path": "/home/leeyah/IdeaProjects/IMS/src/main/resources/com/inventory/ims",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.JavaFX"
@@ -155,7 +155,8 @@
       <workItem from="1654810041278" duration="243000" />
       <workItem from="1654839409227" duration="7752000" />
       <workItem from="1655238207993" duration="1220000" />
-      <workItem from="1655391947135" duration="3104000" />
+      <workItem from="1655391947135" duration="4526000" />
+      <workItem from="1655476109472" duration="120000" />
     </task>
     <servers />
   </component>
